@@ -1,1 +1,2 @@
-[Choose boring tech](https://boringtechnology.club/)
+- [Choose boring tech](https://boringtechnology.club/)
+- [Writing commit messages](https://cbea.ms/git-commit/)
