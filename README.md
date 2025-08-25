@@ -1,3 +1,4 @@
 - [Choose boring tech](https://boringtechnology.club/)
 - [Writing commit messages](https://cbea.ms/git-commit/)
 - [Practical Go by Dave Cheney](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+- [Offline agents](https://medium.com/@denisov.shureg/the-dawn-of-offline-ai-agents-in-your-pocket-55fff80d794b)
