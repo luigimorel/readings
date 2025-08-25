@@ -2,3 +2,4 @@
 - [Writing commit messages](https://cbea.ms/git-commit/)
 - [Practical Go by Dave Cheney](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Offline agents](https://medium.com/@denisov.shureg/the-dawn-of-offline-ai-agents-in-your-pocket-55fff80d794b)
+- [Fine tuning offline agens](https://medium.com/@denisov.shureg/fine-tuning-gemma-with-lora-for-on-device-inference-android-ios-web-with-separate-lora-weights-f05d1db30d86)
